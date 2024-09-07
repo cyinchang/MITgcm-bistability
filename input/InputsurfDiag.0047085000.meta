@@ -1,0 +1,14 @@
+ nDims = [   2 ];
+ dimList = [
+   105,    1,  105,
+    70,    1,   70
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [         19 ];
+ timeStepNumber = [   47085000 ];
+ timeInterval = [  6.777086400000E+11  6.780240000000E+11 ];
+ missingValue = [ -9.99000000000000E+02 ];
+ nFlds = [   19 ];
+ fldList = {
+ 'oceQnet ' 'oceFWflx' 'SFLUX   ' 'TFLUX   ' 'SIarea  ' 'SIheff  ' 'GM_VisbK' 'SItices ' 'SIuice  ' 'SIvice  ' 'SIatmQnt' 'GM_Kvy  ' 'oceTAUX ' 'oceTAUY ' 'SItaux  ' 'SItauy  ' 'EXFuwind' 'EXFvwind' 'sIceLoad'
+ };
